@@ -1,0 +1,7 @@
+.git
+.RData
+.Rhistory
+app/
+pres/
+*.Rmd
+*.csv
